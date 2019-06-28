@@ -1,5 +1,6 @@
 # MyoType
 <i> This project was originally completed November 5, 2017 for the 2017 ECHacks at Trent University </i> 
+
 <b>Setting up the MyoType</b>
 
 To ultilize this tool, go to https://developer.thalmic.com/downloads and download their sdk and firmware for you desired device. 
